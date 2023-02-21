@@ -1,0 +1,6 @@
+{
+    "name": "journal",
+    "image": "docker.io/solanadevelopers/solana-workshop-image:0.0.1",
+    "features": {
+    }
+  }
