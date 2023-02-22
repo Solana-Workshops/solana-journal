@@ -13,7 +13,8 @@ export const Journal: FC = () => {
     const { publicKey, sendTransaction } = useWallet();
 
     const [ programId, setProgramId ] = useState<PublicKey>(
-        new PublicKey("J1aqi2DijQwGTQJvBqGfFxNQYXpJsKeCcGJwpSurWjSd")
+        new PublicKey("21GpPcRsjWjwsXoKqrfz36H4KfamUUa4PwhNYzg5L7Yn")
+        // new PublicKey("GQgCSEix4o9dpSBi7pHZmAvJ1SJb5oYRuDTimTVpHjPz")
     );
 
     const [ journalNickname, setJournalNickname ] = useState<string>(undefined);
