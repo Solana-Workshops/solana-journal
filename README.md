@@ -5,6 +5,12 @@
 | ---- | ---------- | ----- |
 | [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/0RW4V7-a5FU) | Joe Caulfield | N/A |
 
+## ☄️ Open in Solana Playground IDE
+
+| Program | Link |
+| -------------------- | --------------------------------------- |
+| Journal | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/journal/tree/main/journal-program) |
+
 ## 📗 Learn
 
 This workshop demonstrates creating a journal using on-chain data on Solana.   
